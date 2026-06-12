@@ -8,6 +8,9 @@ Here is how the code works:
 
 The LEDs are just another way to express the digits.
 
+Here is the wiring diagram:<img width="891" height="571" alt="Screenshot 2026-06-12 at 12 40 32 PM" src="https://github.com/user-attachments/assets/429d2237-f048-4d85-89f3-379403b98317" />
+
+
 Here are some images of the finished product/examples of the decoder!
 <img width="4032" height="3024" alt="IMG_0497 2" src="https://github.com/user-attachments/assets/d7e106c9-5d45-40e4-8497-0b3d16822729" />
 <img width="4032" height="3024" alt="IMG_0492" src="https://github.com/user-attachments/assets/52c7b594-b3d6-47ee-b1e9-76830118feaf" />
